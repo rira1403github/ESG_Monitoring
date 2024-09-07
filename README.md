@@ -45,4 +45,4 @@ Security: Seva Connect prioritizes data security to ensure the privacy of users 
 
 Support
 
-For any questions or support, feel free to reach out to the Seva Connect team using the issue tracker or through our community channels or @anuragsw17@gmail.com
+For any questions or support, feel free to reach out to the Seva Connect team using the issue tracker or through our community channels or @rajritik1403@gmail.com
